@@ -1,0 +1,114 @@
+@charset "utf-8";
+		body {
+ 			background-image: url("fundo.jpg");
+			}
+		h1{
+			text-align: center;
+			color: #660066;
+			font-family: Impact, Charcoal, sans-serif;
+			font-size: 50px;
+			}
+		a {
+        	color: purple;
+        	text-decoration: none;
+        	}
+    		nav#menu{				
+    		font-family: sans-serif;
+			font-size: 15pt;
+			color: white;
+
+    		}
+    	p{
+    		font-family: sans-serif;
+			font-size: 15pt;
+			color: purple;
+
+    	}
+    	nav#menu ul{
+    		list-style: none;
+         	text-transform: uppercase;
+         	position: relative;
+         	top: -60px;
+         	margin-left: 330px;
+    		}
+        nav#menu li{
+        	display: inline-block;
+        	background-color: #ff66ff;
+        	padding: 10px;
+        	margin: 80px;
+        	border: 4px solid purple;
+        }
+        nav#menu li:hover{
+        	background-color: #cf53cf;
+        	font-weight: bold;
+        }
+		img#mao{
+			width: 25%;
+  			height: 10%;
+  			border: 8px solid purple;
+  		}
+  		div#paragrafoum{
+  			position: relative;
+  			margin-left: 530px;
+  			top: -420px;
+  		}
+  		div#casa{
+  			position: relative;
+  			margin-left: 1150px;
+  			top: -150px;
+  		}
+		img#casa{
+  			border: 8px solid purple;
+  		}
+  		div#paragrafodois{
+  			position: relative;
+  			margin-left: 30px;
+  			top: -340px;
+  		}
+  		img#itens{
+		width: 60%;
+  		height: 60%;  			
+  		}
+  		div#itens{
+  			position: relative;
+  			margin-left: -300px;
+  			top: -150px;
+  		}
+  		ol{
+    		font-family: sans-serif;
+			font-size: 20pt;
+			color: purple;
+
+  		}
+  		div#lista{
+  		position: relative;
+		margin-left: 800px;
+		top: -780px;  			
+  		}
+  		img#mapa{
+  		border: 8px solid purple;
+  		height: 35%;
+  		width: 30%;
+  		}
+  		div#paragrafomapa{
+   		position: relative;
+		margin-left: 650px;
+		top: -400px;  			
+  		}
+  		  table#tabela{
+          border: 5px solid purple;
+          border-spacing: 0px;
+          margin-left: auto;
+          margin-right: auto;
+        }
+        table#tabela td{
+          border: 5px solid purple;
+          padding: 10px;
+          text-align: right;
+        }
+        td{
+        	font-family: sans-serif;
+        	color: #990099;
+        	font-weight: bold;
+
+        }
